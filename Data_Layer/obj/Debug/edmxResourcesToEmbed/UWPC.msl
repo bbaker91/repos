@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="UWPC_TestModelStoreContainer" CdmEntityContainer="UWPC_TestEntities">
+    <FunctionImportMapping FunctionImportName="splocal_ReturnCustomerList" FunctionName="UWPC_TestModel.Store.splocal_ReturnCustomerList" />
+    <FunctionImportMapping FunctionImportName="sp_local_CustomSuppression" FunctionName="UWPC_TestModel.Store.sp_local_CustomSuppression" />
+  </EntityContainerMapping>
+</Mapping>
